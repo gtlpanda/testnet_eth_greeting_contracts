@@ -1,0 +1,21 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "dev": "lite-server"
+  },
+  "keywords": [],
+  "author": "Wissal Haji",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "web3": "^1.6.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
